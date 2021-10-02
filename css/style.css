@@ -8,8 +8,8 @@ background-position: center;
 }
 .nav{
 display: flex;
-background-color: orange;
-color: black;
+background-color:maroon;
+font-size: 18px;
 padding: 20px;
 }
 
