@@ -8,12 +8,8 @@ background-position: center;
 }
 .nav{
 display: flex;
-background-color: orange;
-<<<<<<< Updated upstream
-color: black;
-=======
+background-color:maroon;
 font-size: 18px;
->>>>>>> Stashed changes
 padding: 20px;
 }
 
